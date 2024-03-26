@@ -1,0 +1,53 @@
+dependencies: \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/Flutter/Debug/iphoneos/Pods.build/Debug-iphoneos/FirebaseInstallations.build/module.modulemap \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/FIRInstallations.m \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FIRInstallations.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromises.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/Flutter/Debug/iphoneos/Pods.build/Debug-iphoneos/PromisesObjC.build/module.modulemap \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/Target\ Support\ Files/PromisesObjC/PromisesObjC-umbrella.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+All.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromiseError.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Always.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Any.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Async.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Await.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Catch.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Delay.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Do.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Race.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Recover.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Reduce.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Retry.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Testing.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Then.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Timeout.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Validate.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Wrap.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/FirebaseInstallations/FirebaseCore/Extension/FirebaseCoreInternal.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/Flutter/Debug/iphoneos/Pods.build/Debug-iphoneos/FirebaseCore.build/module.modulemap \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/Target\ Support\ Files/FirebaseCore/FirebaseCore-umbrella.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRApp.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRConfiguration.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRLoggerLevel.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FirebaseCore.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIROptions.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRVersion.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/FirebaseInstallations/FirebaseCore/Extension/FIRAppInternal.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/FirebaseInstallations/FirebaseCore/Extension/FIRComponent.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/FirebaseInstallations/FirebaseCore/Extension/FIRComponentContainer.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/FirebaseInstallations/FirebaseCore/Extension/FIRComponentType.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/FirebaseInstallations/FirebaseCore/Extension/FIRDependency.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/FirebaseInstallations/FirebaseCore/Extension/FIRHeartbeatLogger.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/FirebaseInstallations/FirebaseCore/Extension/FIRLibrary.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/FirebaseInstallations/FirebaseCore/Extension/FIRLogger.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/FirebaseInstallations/FirebaseCore/Extension/FIROptionsInternal.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/FIRInstallationsAuthTokenResultInternal.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FIRInstallationsAuthTokenResult.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Errors/FIRInstallationsErrorUtil.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FIRInstallationsErrors.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/FIRInstallationsItem.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsIDController/FIRInstallationsStatus.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/FIRInstallationsLogger.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsIDController/FIRInstallationsIDController.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsStore/FIRInstallationsStoredAuthToken.h

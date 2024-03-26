@@ -1,0 +1,18 @@
+"/Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageReference.swift":
+  object: "/Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/Flutter/Debug/iphoneos/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageReference.o"
+  diagnostics: "/Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/Flutter/Debug/iphoneos/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageReference.dia"
+  const-values: "/Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/Flutter/Debug/iphoneos/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageReference.swiftconstvalues"
+  dependencies: "/Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/Flutter/Debug/iphoneos/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageReference.d"
+  swift-dependencies: "/Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/Flutter/Debug/iphoneos/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageReference.swiftdeps"
+"/Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageTask.swift":
+  object: "/Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/Flutter/Debug/iphoneos/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageTask.o"
+  dependencies: "/Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/Flutter/Debug/iphoneos/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageTask.d"
+  swift-dependencies: "/Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/Flutter/Debug/iphoneos/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageTask.swiftdeps"
+  diagnostics: "/Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/Flutter/Debug/iphoneos/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageTask.dia"
+  const-values: "/Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/Flutter/Debug/iphoneos/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageTask.swiftconstvalues"
+"/Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageTaskSnapshot.swift":
+  const-values: "/Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/Flutter/Debug/iphoneos/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageTaskSnapshot.swiftconstvalues"
+  dependencies: "/Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/Flutter/Debug/iphoneos/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageTaskSnapshot.d"
+  object: "/Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/Flutter/Debug/iphoneos/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageTaskSnapshot.o"
+  swift-dependencies: "/Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/Flutter/Debug/iphoneos/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageTaskSnapshot.swiftdeps"
+  diagnostics: "/Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/Flutter/Debug/iphoneos/Pods.build/Debug-iphoneos/FirebaseStorage.build/Objects-normal/arm64/StorageTaskSnapshot.dia"

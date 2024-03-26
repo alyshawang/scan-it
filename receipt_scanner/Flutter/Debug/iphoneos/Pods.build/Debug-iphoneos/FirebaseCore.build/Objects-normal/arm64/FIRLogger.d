@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/Flutter/Debug/iphoneos/Pods.build/Debug-iphoneos/FirebaseCore.build/module.modulemap \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/FirebaseCore/FirebaseCore/Sources/FIRLogger.m \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/FirebaseCore/FirebaseCore/Extension/FIRLogger.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRLoggerLevel.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/Flutter/Debug/iphoneos/Pods.build/Debug-iphoneos/GoogleUtilities.build/module.modulemap \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/Target\ Support\ Files/GoogleUtilities/GoogleUtilities-umbrella.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/GoogleUtilities/GoogleUtilities/AppDelegateSwizzler/Public/GoogleUtilities/GULAppDelegateSwizzler.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/GoogleUtilities/GoogleUtilities/AppDelegateSwizzler/Public/GoogleUtilities/GULApplication.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/GoogleUtilities/GoogleUtilities/AppDelegateSwizzler/Public/GoogleUtilities/GULSceneDelegateSwizzler.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULAppEnvironmentUtil.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULHeartbeatDateStorable.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULHeartbeatDateStorage.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULHeartbeatDateStorageUserDefaults.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULKeychainStorage.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULKeychainUtils.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULNetworkInfo.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULSecureCoding.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULURLSessionDataResponse.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/NSURLSession+GULPromises.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/GoogleUtilities/GoogleUtilities/Logger/Public/GoogleUtilities/GULLogger.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/GoogleUtilities/GoogleUtilities/Logger/Public/GoogleUtilities/GULLoggerLevel.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/GoogleUtilities/GoogleUtilities/MethodSwizzler/Public/GoogleUtilities/GULOriginalIMPConvenienceMacros.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/GoogleUtilities/GoogleUtilities/MethodSwizzler/Public/GoogleUtilities/GULSwizzler.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/GoogleUtilities/GoogleUtilities/NSData+zlib/Public/GoogleUtilities/GULNSData+zlib.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/GoogleUtilities/GoogleUtilities/Network/Public/GoogleUtilities/GULMutableDictionary.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/GoogleUtilities/GoogleUtilities/Network/Public/GoogleUtilities/GULNetwork.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/GoogleUtilities/GoogleUtilities/Network/Public/GoogleUtilities/GULNetworkConstants.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/GoogleUtilities/GoogleUtilities/Network/Public/GoogleUtilities/GULNetworkLoggerProtocol.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/GoogleUtilities/GoogleUtilities/Network/Public/GoogleUtilities/GULNetworkMessageCode.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/GoogleUtilities/GoogleUtilities/Network/Public/GoogleUtilities/GULNetworkURLSession.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/GoogleUtilities/GoogleUtilities/Reachability/Public/GoogleUtilities/GULReachabilityChecker.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/GoogleUtilities/GoogleUtilities/UserDefaults/Public/GoogleUtilities/GULUserDefaults.h \
+  /Users/alyshawang/Documents/ReceiptScanner/receipt_scanner/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRVersion.h
