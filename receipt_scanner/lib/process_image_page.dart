@@ -6,6 +6,7 @@ import 'package:http/http.dart' as http;
 import 'package:image_picker/image_picker.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_storage/firebase_storage.dart' as firebase_storage;
+import 'package:sliding_up_panel/sliding_up_panel.dart';
 
 class ProcessedImagePage extends StatefulWidget {
   final String imageUrl;
@@ -84,94 +85,106 @@ class _ProcessedImagePageState extends State<ProcessedImagePage> {
           ),
         ],
       ),
-      body: SingleChildScrollView(
-        child: Column(
-          children: [
-            SizedBox(height: 20),
-            ClipRRect(
-              borderRadius: BorderRadius.circular(12),
-              child: Image.network(
-                widget.imageUrl,
-                width: MediaQuery.of(context).size.width * 0.9,
+      body: SlidingUpPanel(
+        minHeight: 250,
+        maxHeight: MediaQuery.of(context).size.height * 0.5,
+        panel: _buildPanel(),
+        body: SingleChildScrollView(
+          child: Column(
+            children: [
+              SizedBox(height: 20),
+              ClipRRect(
+                borderRadius: BorderRadius.circular(12),
+                child: Image.network(
+                  widget.imageUrl,
+                  width: MediaQuery.of(context).size.width * 0.9,
+                ),
               ),
-            ),
-            SizedBox(height: 20),
-            Padding(
-              padding: const EdgeInsets.all(20.0),
-              child: Column(
-                crossAxisAlignment: CrossAxisAlignment.start,
-                children: [
-                  Container(
-                    padding: EdgeInsets.all(5),
-                    decoration: BoxDecoration(
-                        borderRadius: BorderRadius.circular(15),
-                        color: Color.fromRGBO(244, 243, 243, 1)),
-                    child: TextFormField(
-                      initialValue: _updatedTotalAmount.toString(),
-                      style: TextStyle(color: Color.fromARGB(255, 70, 70, 70)),
-                      onChanged: (value) {
-                        setState(() {
-                          _updatedTotalAmount =
-                              double.tryParse(value) ?? _updatedTotalAmount;
-                        });
-                      },
-                      decoration: InputDecoration(
-                        enabledBorder: InputBorder.none,
-                        prefixIcon: Icon(Icons.attach_money),
-                      ),
-                    ),
-                  ),
-                  SizedBox(height: 20),
-                  Container(
-                    padding: EdgeInsets.all(5),
-                    decoration: BoxDecoration(
-                        borderRadius: BorderRadius.circular(15),
-                        color: Color.fromRGBO(244, 243, 243, 1)),
-                    child: TextFormField(
-                      initialValue: _updatedDate,
-                      style: TextStyle(color: Color.fromARGB(255, 70, 70, 70)),
-                      onChanged: (value) {
-                        setState(() {
-                          _updatedDate = value;
-                        });
-                      },
-                      decoration: InputDecoration(
-                        enabledBorder: InputBorder.none,
-                        prefixIcon: Icon(Icons.calendar_today),
-                      ),
-                    ),
-                  ),
-                  SizedBox(height: 20),
-                  Text(
-                    'Category',
-                    style: TextStyle(
-                      fontFamily: 'Manrope',
-                      fontSize: 16,
-                      fontWeight: FontWeight.bold,
-                    ),
-                  ),
-                  SizedBox(height: 10),
-                  Wrap(
-                    spacing: 10,
-                    runSpacing: 10,
-                    children: [
-                      _buildCategoryButton('Groceries'),
-                      _buildCategoryButton('Clothes'),
-                      _buildCategoryButton('Office'),
-                      _buildCategoryButton('Vehicle'),
-                      _buildCategoryButton('Meals'),
-                      _buildCategoryButton('Rent'),
-                      _buildCategoryButton('Phone & Utilities'),
-                      _buildCategoryButton('Supplies'),
-                      _buildCategoryButton('Assets'),
-                    ],
-                  ),
-                ],
-              ),
-            ),
-          ],
+            ],
+          ),
         ),
       ),
+    );
+  }
+
+  Widget _buildPanel() {
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        Padding(
+          padding: const EdgeInsets.all(20.0),
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Container(
+                padding: EdgeInsets.all(5),
+                decoration: BoxDecoration(
+                    borderRadius: BorderRadius.circular(15),
+                    color: Color.fromRGBO(244, 243, 243, 1)),
+                child: TextFormField(
+                  initialValue: _updatedTotalAmount.toString(),
+                  style: TextStyle(color: Color.fromARGB(255, 70, 70, 70)),
+                  onChanged: (value) {
+                    setState(() {
+                      _updatedTotalAmount =
+                          double.tryParse(value) ?? _updatedTotalAmount;
+                    });
+                  },
+                  decoration: InputDecoration(
+                    enabledBorder: InputBorder.none,
+                    prefixIcon: Icon(Icons.attach_money),
+                  ),
+                ),
+              ),
+              SizedBox(height: 20),
+              Container(
+                padding: EdgeInsets.all(5),
+                decoration: BoxDecoration(
+                    borderRadius: BorderRadius.circular(15),
+                    color: Color.fromRGBO(244, 243, 243, 1)),
+                child: TextFormField(
+                  initialValue: _updatedDate,
+                  style: TextStyle(color: Color.fromARGB(255, 70, 70, 70)),
+                  onChanged: (value) {
+                    setState(() {
+                      _updatedDate = value;
+                    });
+                  },
+                  decoration: InputDecoration(
+                    enabledBorder: InputBorder.none,
+                    prefixIcon: Icon(Icons.calendar_today),
+                  ),
+                ),
+              ),
+              SizedBox(height: 20),
+              Text(
+                'Category',
+                style: TextStyle(
+                  fontFamily: 'Manrope',
+                  fontSize: 16,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+              SizedBox(height: 10),
+              Wrap(
+                spacing: 10,
+                runSpacing: 10,
+                children: [
+                  _buildCategoryButton('Groceries'),
+                  _buildCategoryButton('Clothes'),
+                  _buildCategoryButton('Office'),
+                  _buildCategoryButton('Vehicle'),
+                  _buildCategoryButton('Meals'),
+                  _buildCategoryButton('Rent'),
+                  _buildCategoryButton('Phone & Utilities'),
+                  _buildCategoryButton('Supplies'),
+                  _buildCategoryButton('Assets'),
+                ],
+              ),
+            ],
+          ),
+        ),
+      ],
     );
   }
 
