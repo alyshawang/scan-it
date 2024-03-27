@@ -13,3 +13,7 @@
 ## About
 A receipt scanning mobile app which extracts the total amount paid, the date in the MM/DD/YYYY format, and determines the overall tax category of the purchase to upload onto excel.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Image Deskewing
+<img width="500" src = https://github.com/alyshawang/scan-it/assets/113640728/7696b1d9-f861-4439-ada7-10e9acfac8eb>
+<img width="500" src =https://github.com/alyshawang/scan-it/assets/113640728/c4a8cec8-0cb6-4782-a4ba-7c0c8de724e1>
